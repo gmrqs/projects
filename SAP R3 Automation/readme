@@ -1,1 +1,7 @@
-o hi mark
+In my daily routine in the office I often find myself doing queries in our SAP/R3 system and I've been automating these so reports come out faster, easier and in a standardized manner.
+
+> In this project i'm automating queries in SAP R/3 transactions using Python and VB scripting (which creates the interface with the SAP system);
+
+> Its purpose is to read a report in our file, select some account numbers and use these account numbers as arguments in the SAP R/3 transactions;
+
+> The transaction generates a temporary good'ol excel file, that is converted in a pandas Data Frame so I can munge all this data in python/pandas;
